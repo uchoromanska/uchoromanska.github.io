@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-That will come later..
+Yet another programmer's blog.
 
 ### More Information
 
-And also that
-
-### Contact me
-
-[uchoromanska@gmail.com](mailto:uchoromanska@gmail.com)
+will come later
