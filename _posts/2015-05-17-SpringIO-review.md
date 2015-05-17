@@ -4,7 +4,7 @@ title: Spring I/O Conference 2015
 tags: conference, review
 ---
 
-This year, thanks to my company 4Finance IT, I had a pleasure to attend to Spring I/O conference that took place in Barcelona. It had an amazing lineup of speakers from companies like Pivotal, Google, ElasticSearch, JetBrains or MongoDb that shared their knowledge in fields of Spring Groovy, Grails and many other.
+This year, thanks to my company 4Finance IT, I had a pleasure to attend to Spring I/O conference that took place in Barcelona. It had an amazing lineup of speakers from companies like Pivotal, Google, ElasticSearch, JetBrains or MongoDb that shared their knowledge in fields of Spring, Groovy, Grails and many other.
 
 Conference in numbers:
 
@@ -67,4 +67,4 @@ Big advantage of the conference was its place - Barcelona, one of the most beaut
 ## Conclusions
 I’m very happy that I could attend to Spring I/O Conference. For everyone that couldn’t make it, small summary:
 
-[![Spring I/O Conference](http://img.youtube.com/vi/XWKgi_XqkSg/0.jpg)](http://www.youtube.com/watch?v=XWKgi_XqkSg
+[![Spring I/O Conference](http://img.youtube.com/vi/XWKgi_XqkSg/0.jpg)](http://www.youtube.com/watch?v=XWKgi_XqkSg)
