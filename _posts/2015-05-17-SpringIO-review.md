@@ -56,7 +56,7 @@ Coffee was served only during two breaks, only by waiters which led to long queu
 
 Finally - every attendee got a  gift pack which contained t-shirt. Unfortunately there were only men t-shirt, nobody thought about those (approximately) 10 women ;)
 
-Big advantage of the conference was its place - Barcelona, one of the most beautiful cities in Span.
+Big advantage of the conference was its place - Barcelona, one of the most beautiful cities in Spain.
 
 
 ![city]({{ site.baseurl }}/images/springIoBarcelona/IMG_20150429_205511_s.jpg "city")
