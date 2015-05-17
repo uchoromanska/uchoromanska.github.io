@@ -7,16 +7,12 @@ tags: conference, review
 This year, thanks to my company 4Finance IT, I had a pleasure to attend to Spring I/O conference that took place in Barcelona. It had an amazing lineup of speakers from companies like Pivotal, Google, ElasticSearch, JetBrains or MongoDb that shared their knowledge in fields of Spring Groovy, Grails and many other.
 
 Conference in numbers:
+
 - 2 days,
-
 - 41 speakers, 
-
 - 4 lines of lectures and workshops, 
-
 - 40 lectures,
-
 - 6 workshops,
-
 - approximately 350 attendees
 
 ![Spring I/O Conference]({{ site.baseurl }}/images/springIoBarcelona/2015-04-29_s.jpg "Spring I/O Conference")
