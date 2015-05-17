@@ -8,10 +8,15 @@ This year, thanks to my company 4Finance IT, I had a pleasure to attend to Sprin
 
 Conference in numbers:
 - 2 days,
+
 - 41 speakers, 
+
 - 4 lines of lectures and workshops, 
+
 - 40 lectures,
+
 - 6 workshops,
+
 - approximately 350 attendees
 
 ![Spring I/O Conference]({{ site.baseurl }}/images/springIoBarcelona/2015-04-29_s.jpg "Spring I/O Conference")
@@ -29,12 +34,14 @@ Dustin showed how performance of application affects business by user experience
 - Google PageSpeed
 - WBench
 and many many more…
+
 ![Performance Testing Crash Course]({{ site.baseurl }}/images/springIoBarcelona/IMG_20150430_123106_s.jpg "Performance Testing Crash Course")
 
 I highly recommend to watch this lecture to understand how to automate performance tests and evaluate the impact that performance has on business side of application.
 
 
 Another great talk - <b>“Inside an Spring Event Sourced CQRS application - or why Microservices can actually work”</b> by <b>Eugen Paraschiv</b>. 
+
 In this lecture author shared his experience of building and deploying event sourced CQRS Spring application. Showed how commands lead to events, events to an event based system, and how these events get projected into useful views. Finally, he explained why Projections are in fact - micoservices.
 
 ![Inside an Spring Event Sourced CQRS application]({{ site.baseurl }}/images/springIoBarcelona/IMG_20150429_173018_s.jpg "Inside an Spring Event Sourced CQRS application")
