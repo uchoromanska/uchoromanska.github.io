@@ -22,6 +22,7 @@ As mentioned above, there were three parallel lines of lectures therefore every 
 
 My personal favourite was <b>Dustin Whittle</b> with <b>“Performance Testing Crash Course”</b>.
 Dustin showed how performance of application affects business by user experience. His presentation contained description of numerous performance testing tools like:
+
 - Apache Bench
 - Sproxy
 - Siege
@@ -29,7 +30,6 @@ Dustin showed how performance of application affects business by user experience
 - Bees With Machine Guns (seriously - how cool is that?)
 - Google PageSpeed
 - WBench
-
 
 and many many more…
 
@@ -59,4 +59,6 @@ Big advantage of the conference was its place - Barcelona, one of the most beaut
 ## Conclusions
 I’m very happy that I could attend to Spring I/O Conference. For everyone that couldn’t make it, small summary:
 
-[![Spring I/O Conference](http://img.youtube.com/vi/XWKgi_XqkSg/0.jpg)](http://www.youtube.com/watch?v=XWKgi_XqkSg)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=XWKgi_XqkSg
+" target="_blank"><img src="http://img.youtube.com/vi/XWKgi_XqkSg/0.jpg" 
+alt="Spring I/O Conference" width="240" height="180" border="10" /></a>
