@@ -5,5 +5,5 @@ permalink: /about/
 ---
 
 U. Choromańska
-Software Developer @ 4FinanceIT
 
+Software Developer @ 4FinanceIT
