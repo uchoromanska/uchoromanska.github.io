@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Yet another programmer's blog.
+U. Choromańska
+Software Developer @ 4FinanceIT
 
-### More Information
-
-will come later
