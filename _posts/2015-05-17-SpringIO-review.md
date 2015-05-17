@@ -58,6 +58,12 @@ Finally - every attendee got a  gift pack which contained t-shirt. Unfortunately
 
 Big advantage of the conference was its place - Barcelona, one of the most beautiful cities in Span.
 
+
+![city]({{ site.baseurl }}/images/springIoBarcelona/IMG_20150429_205511_s.jpg "city")
+
+![sea]({{ site.baseurl }}/images/springIoBarcelona/IMG_20150501_184622_s.jpg "sea")
+
+
 ## Conclusions
 I’m very happy that I could attend to Spring I/O Conference. For everyone that couldn’t make it, small summary:
 
