@@ -15,7 +15,9 @@ Conference in numbers:
 - 6 workshops,
 - approximately 350 attendees
 
+
 ![Spring I/O Conference]({{ site.baseurl }}/images/springIoBarcelona/2015-04-29_s.jpg "Spring I/O Conference")
+
 
 ## Lectures
 As mentioned above, there were three parallel lines of lectures therefore every time I had to choose one of three talks. Sometimes this decision was not easy to make. I’ll focus only on two talks that inspired me the most.
@@ -59,6 +61,4 @@ Big advantage of the conference was its place - Barcelona, one of the most beaut
 ## Conclusions
 I’m very happy that I could attend to Spring I/O Conference. For everyone that couldn’t make it, small summary:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=XWKgi_XqkSg
-" target="_blank"><img src="http://img.youtube.com/vi/XWKgi_XqkSg/0.jpg" 
-alt="Spring I/O Conference" width="240" height="180" border="10" /></a>
+[![Spring I/O Conference](http://img.youtube.com/vi/XWKgi_XqkSg/0.jpg)](http://www.youtube.com/watch?v=XWKgi_XqkSg
