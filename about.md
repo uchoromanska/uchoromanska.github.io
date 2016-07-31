@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-U. Choromańska
+U. Grochowska
 
 Software Developer @ 4FinanceIT
